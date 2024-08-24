@@ -1,7 +1,7 @@
 
 """
-Copyright (c) 2022 Anibal-Alpizar.
-https://github.com/Anibal-Alpizar
+Copyright (c) 2022 anibalalpizar.
+https://github.com/anibalalpizar
 """
 
 import discord

@@ -52,7 +52,7 @@ async def yt(ctx, *, search):
 # Events
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Streaming(name="https://github.com/Anibal-Alpizar", url="https://github.com/Anibal-Alpizar"))
+    await bot.change_presence(activity=discord.Streaming(name="https://github.com/anibalalpizar", url="https://github.com/Anibal-Alpizar"))
     print('Bot is ready!')
 
 
